@@ -1,4 +1,4 @@
-# Mini Unix Shell in C
+# Unix Shell in C
 
 A Unix-like shell implemented in C, designed to demonstrate solid understanding of **operating systems fundamentals**, **process management**, and **POSIX system programming**.  
 This project was built with a strong focus on correctness, clarity, and real shell behavior.
